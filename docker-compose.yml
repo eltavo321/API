@@ -1,0 +1,9 @@
+
+
+services:
+
+  miapi:
+    image:
+    container_name: 
+    ports:
+      - 3000:3000
